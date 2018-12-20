@@ -6,3 +6,4 @@ access_template = ['switchport mode access',
                    'spanning-tree bpduguard enable']
 
 print('\n'.join(access_template).format(5))
+print('Hello')
